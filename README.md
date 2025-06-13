@@ -1,5 +1,7 @@
 You can try it out at [kindlepathy.com](https://kindlepathy.com).
 
+![kindlepathy-screens](https://github.com/user-attachments/assets/0ac105fc-d72c-482b-b97b-97eac15800b2)
+
 Browser extension can optionally be downloaded from [Chrome Web Store](https://chromewebstore.google.com/detail/eclacjdfoacbmgoiongjpmlaangpmbac) or [Mozilla Add-ons](https://addons.mozilla.org/en-US/firefox/addon/kindlepathy-extractor).
 
 ### Motivation
